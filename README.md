@@ -5,9 +5,7 @@
   <span style="color: #6C63FF; font-weight: bold;">Hey there, I'm Zakariya Hossain</span>
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76900&center=true&vCenter=true&width=500&lines=%F0%9F%93%B1+Mobile+App+Developer;🚀+Flutter+%26+Kotlin+Specialist;🛠️+Cross-Platform+Development;🎨+UI/UX+Enthusiast;🎯+Code+with+Purpose" />
-</h3>
+
 
 ---
 
