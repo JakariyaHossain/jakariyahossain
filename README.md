@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 🔹 I'm a *Mobile Application Developer* at [Daffodil Computers Ltd.](https://daffodil-bd.com/), crafting mobile experiences using Flutter & Kotlin.  
-🔹 With *2 years of hands-on experience*, I’ve built and deployed production-ready apps across both Android & iOS platforms.  
+🔹 With **3 years of hands-on experience**, I’ve built and deployed production-ready apps across both Android & iOS platforms.  
 🔹 Passionate about *clean code, **modern UI/UX*, and making technology accessible & user-friendly.
 
 ---
